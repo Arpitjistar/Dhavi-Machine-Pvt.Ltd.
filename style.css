@@ -346,7 +346,7 @@ body{
         max-width:420px;
     }
     .btns{
-        max-width:420px;
+        max-width:230px;
         gap:18px;
     }
     .btn{
@@ -383,4 +383,5 @@ body{
         border-radius:40px;
     }
 }
+
 
